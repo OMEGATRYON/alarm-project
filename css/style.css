@@ -1,0 +1,17 @@
+html {
+    background: linear-gradient(cyan,blue);
+}
+h1  {
+    text-align: center;
+    margin-bottom: 300px;
+}
+
+
+#clock {
+    text-align: center;
+    font-size: 300px;
+    border-style: solid;
+    border-radius: 100px;    
+    font-family: 'Black Ops One', cursive;
+
+}
